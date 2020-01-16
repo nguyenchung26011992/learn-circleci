@@ -1,0 +1,19 @@
+{
+  "name": "learn-circleci",
+  "version": "1.0.0",
+  "description": "- [Document](#document)",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/nguyenchung26011992/learn-circleci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/nguyenchung26011992/learn-circleci#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
